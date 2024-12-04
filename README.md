@@ -51,8 +51,8 @@
 
 ![WhatsApp Image 2024-12-04 at 11 35 50 AM (3)](https://github.com/user-attachments/assets/76c81d11-f3cb-4072-b852-2005aabf227a)
 
-### Name: KIRAN M.P
-### Register Number: 24000839
+### Name: DEEPAK.S
+### Register Number: 24007248
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
