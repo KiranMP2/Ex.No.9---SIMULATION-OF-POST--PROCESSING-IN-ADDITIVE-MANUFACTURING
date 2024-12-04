@@ -37,6 +37,8 @@
 
 ![image](https://github.com/user-attachments/assets/3c5ab9e7-df01-40b9-bb53-b67535eadf85)
 
+![WhatsApp Image 2024-12-04 at 11 35 49 AM (1)](https://github.com/user-attachments/assets/1ad6a6d1-7d8a-41b7-b15f-6e2edcb624e8)
+
 ## UV Curing of 3D printed part
 
 ![WhatsApp Image 2024-12-04 at 11 35 50 AM](https://github.com/user-attachments/assets/28cf2880-69d5-44d7-b7eb-2adc6003eca6)
