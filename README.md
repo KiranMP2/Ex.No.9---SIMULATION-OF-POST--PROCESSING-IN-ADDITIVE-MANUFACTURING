@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 04.12.2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,23 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+
+![image](https://github.com/user-attachments/assets/3c5ab9e7-df01-40b9-bb53-b67535eadf85)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+
+![WhatsApp Image 2024-12-04 at 11 35 50 AM](https://github.com/user-attachments/assets/28cf2880-69d5-44d7-b7eb-2adc6003eca6)
+
+![WhatsApp Image 2024-12-04 at 11 35 49 AM](https://github.com/user-attachments/assets/7f09bf02-48e5-4d02-b40e-ebf04a152a45)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
-## Output:
+![WhatsApp Image 2024-12-04 at 11 35 50 AM (2)](https://github.com/user-attachments/assets/00cf0501-2970-4431-a4a3-ed4ab739cf52)
 
-### Name:
-### Register Number:
+![WhatsApp Image 2024-12-04 at 11 35 50 AM (3)](https://github.com/user-attachments/assets/76c81d11-f3cb-4072-b852-2005aabf227a)
+
+### Name: KIRAN M.P
+### Register Number: 24000839
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
